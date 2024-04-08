@@ -11,7 +11,7 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 ### Step 3:  Use np.linalg.eig(A) to find the eigenvalues and eigenvectors.
 ### Step 4: print and end the program.
 # Question:
-#write a program to find the eigenvalues and associated eigenvectors for the matrix 
+write a program to find the eigenvalues and associated eigenvectors for the matrix 
 [2,2],[1,3]
 
 ## Program:
