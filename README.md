@@ -16,8 +16,8 @@ write a program to find the eigenvalues and associated eigenvectors for the matr
 
 ## Program:
 ```
-Developed by:Yogavarma.B
-RegisterNumber:2305002029
+Developed by:kavipriya s.p
+RegisterNumber:2305002011
 ```
 ```python
 import numpy as np
@@ -26,7 +26,8 @@ value,vector=np.linalg.eig(a)
 print("Eigenvalues are {} and Eigenvectors are {}".format(value,vector))
 ```
 ## Output:
-![image](https://github.com/kavipriyasp07/EIGENVALUES-AND-EIGENVECTORS/assets/155508590/f20d12f9-4612-49fd-b014-0fd9de4f71ac)
+![image](https://github.com/kavipriyasp07/EIGENVALUES-AND-EIGENVECTORS/assets/155508590/d641650e-49a2-4c2c-a761-9e38a5fbe75e)
+
 
 
 ## Result:
